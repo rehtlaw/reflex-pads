@@ -3,6 +3,10 @@
 **Note**: I am German (I know, tragic), so I will be using german sites and sellers. Sites like DigiKey, JLCPCB and 
 Amazon of course ship (mostly?) world wide, while Motedis at least ships to the EU, UK and US from what I can tell.
 
+If you are following this list, I would still recommend you to check with the [parts-list.txt](https://github.com/ReflexCreations/hardware-design/blob/master/part-lists.txt) 
+from the hardware design repo and the `unpopulated.csv` files from both the IO-board and panel board gerber zips, 
+just to make sure you're getting everything.
+
 ## my list:
 - DigiKey: https://www.digikey.de/short/r9nfhzhb TH parts for 1 pad + ethernet and barrel jack cables. 
 	- Doesn’t have the JST connectors because they were out of stock right now. If they are in stock, get them here: https://www.digikey.de/en/products/detail/jst-sales-america-inc/B4B-PH-K-S/926613 (you will need 16 per pad)
