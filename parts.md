@@ -7,7 +7,7 @@ Amazon of course ship (mostly?) world wide, while Motedis at least ships to the 
 - DigiKey: https://www.digikey.de/short/r9nfhzhb TH parts for 1 pad + ethernet and barrel jack cables. 
 	- Doesn’t have the JST connectors because they were out of stock right now. If they are in stock, get them here: https://www.digikey.de/en/products/detail/jst-sales-america-inc/B4B-PH-K-S/926613 (you will need 16 per pad)
 - Galoce Load Cells: https://www.galoce.com/products/micro-load-cell/GML670_Full_Bridge_Micro_Load_Cell_.html Sensors (16 pieces per pad), make sure it’s the full bridge ones (you need to contact them if you want to buy some)
-- PCBs: bought them from JLCPCB, follow the instructions in the repos for those (need at least 1 populated IO bard and 4 populated panel boards per pad)
+- PCBs: bought them from JLCPCB, follow the instructions in the repos for those (need at least 1 populated IO board and 4 populated panel boards per pad)
 - Aluminium panels: https://www.aluminium-online-shop.de/produkt-kategorie/aluminium-platten-aluminium-bleche/bleche-platten/ 6mm thick, 280x280mm, 5 pieces per pad. You probably want to add anodizing to it (can only be done via adding it to the order note and paying the fee once they send it to you)
 - PolyCarb panels: https://kunststoffplattenprofis.de/produkt/polycarbonat-farblos-innen/ 12mm thick 28x28cm, 4 pieces per pad. Don’t bother with the deburring service for that price, you might as well just do it yourself.
 	- "but the original guide tells you to get acrylic pads!" yeah but acrylic pads will pretty quickly break on you as well, so you might as well not bother with them and go straight to PC
