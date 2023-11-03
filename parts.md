@@ -4,7 +4,7 @@
 Amazon of course ship (mostly?) world wide, while Motedis at least ships to the EU, UK and US from what I can tell.
 
 If you are following this list, I would still recommend you to check with the [parts-list.txt](https://github.com/ReflexCreations/hardware-design/blob/master/part-lists.txt) 
-from the hardware design repo and the `unpopulated.csv` files from both the IO-board and panel board gerber zips, 
+from the hardware design repo and the `unpopulated.csv` files from both the [io-board](https://github.com/ReflexCreations/io-board) and [panel-board](https://github.com/ReflexCreations/panel-board) gerber zips, 
 just to make sure you're getting everything.
 
 ## my list:
