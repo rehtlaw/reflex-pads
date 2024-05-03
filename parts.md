@@ -21,7 +21,8 @@ just to make sure you're getting everything.
 	- https://www.motedis.com/shop/create_offers_kit.php?oID=30741 doubles connector if you’re building 2 pads
 	- not all parts seem to be available anymore and one part was out of stock for me:
 		- https://www.motedis.com/en/Connector-plate-double-156x78x5-lasercut if the regular 5mm aluminium version is sold out, the 3mm steel one works just fine too
-		- https://www.motedis.com/en/Connection-Plate-40x80-black I bought this instead of the `Connector plate 74x34x5, Laser cut, series 40` (which is out of production as far as I can tell) for the bar 
+		- ~~https://www.motedis.com/en/Connection-Plate-40x80-black I bought this instead of the `Connector plate 74x34x5, Laser cut, series 40` (which is out of production as far as I can tell) for the bar~~
+		  actually this plate sucks, just use a 40x40 bracket like this https://www.motedis.com/en/Bracket-40-I-Type-slot-8
 		- https://www.item24.com/de-de/profil-8-d40-3no-natur-49345?length=849 The bars are out of production at motedis apparently, so I switched to this seller. Sadly they don’t sell to private buyers, so I’m getting my workplace to buy it for me.
 - Amazon parts:
 	- https://amzn.eu/d/3SlqP1G PSU
