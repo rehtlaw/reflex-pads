@@ -24,6 +24,7 @@ just to make sure you're getting everything.
 		- ~~https://www.motedis.com/en/Connection-Plate-40x80-black I bought this instead of the `Connector plate 74x34x5, Laser cut, series 40` (which is out of production as far as I can tell) for the bar~~
 		  actually this plate sucks, just use a 40x40 bracket like this https://www.motedis.com/en/Bracket-40-I-Type-slot-8
 		- https://www.item24.com/de-de/profil-8-d40-3no-natur-49345?length=849 The bars are out of production at motedis apparently, so I switched to this seller. Sadly they don’t sell to private buyers, so I’m getting my workplace to buy it for me.
+		- alternatively, you can get an extra 40-series extrusion and print these: https://github.com/joshhead/reflex-extrusion-bar
 - Amazon parts:
 	- https://amzn.eu/d/3SlqP1G PSU
 	- https://amzn.eu/d/bTP2xQI JST plugs (ignore these if you could order them from DigiKey)
