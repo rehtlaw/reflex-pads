@@ -8,8 +8,7 @@ from the hardware design repo and the `unpopulated.csv` files from both the [io-
 just to make sure you're getting everything.
 
 ## my list:
-- DigiKey: [https://www.digikey.de/short/r9nfhzhb](https://www.digikey.de/short/04b4m05t) TH parts for 1 pad + ethernet and barrel jack cables. 
-	- Doesn’t have the JST connectors because they were out of stock right now. If they are in stock, get them here: https://www.digikey.de/en/products/detail/jst-sales-america-inc/B4B-PH-K-S/926613 (you will need 16 per pad)
+- DigiKey: https://www.digikey.de/short/zttw7nnq TH parts for 1 pad + ethernet and barrel jack cables. 
 - Galoce Load Cells: https://www.galoce.com/products/micro-load-cell/GML670_Full_Bridge_Micro_Load_Cell_.html Sensors (16 pieces per pad), make sure it’s the full bridge ones (you need to contact them if you want to buy some)
 - PCBs: bought them from JLCPCB, follow the instructions in the repos for those (need at least 1 populated IO board and 4 populated panel boards per pad)
 - Aluminium panels: https://www.aluminium-online-shop.de/produkt-kategorie/aluminium-platten-aluminium-bleche/bleche-platten/ 6mm thick, 280x280mm, AIMg3 5 pieces per pad. You probably want to add anodizing ("Eloxierung" in german) to it (can only be done via adding it to the order note and paying the fee once they send it to you)
